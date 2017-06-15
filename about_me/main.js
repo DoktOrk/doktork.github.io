@@ -6,7 +6,7 @@ var aboutMeContent = "Hi!" +"<br/>"+
 "I speak hungarian, german, english on business level and above." +"<br/><br/>"+
 "I\'ve learned HTML, css and javascript in online schools (CodeBerry, CodeSchool), and fortunately have a lot of friends, (software engineers, doctors, web developers for example in the Codeberry online school, etc...) due to my 9 years in the largest student organization of Hungary on the university. They encouraged and teached me." +"<br/>"+ 
 "Actually, coding was a hobby to me. The hobby became Passion. The passion became Love." +"<br/>"+ 
-"As Troy Hartmann (aerial professional stuntman) once said: \"I don\'t have any particular name, for what it is... I know, the Passion is at the core of it. It\'s that inner drive. It\'s that... I can\'t wait for it!\"" +"<br/><br/>"+ 
+"As Troy Hartmann (aerial professional stuntman) once said: \"I don\'t have any particular name, for what it is... I know, that Passion is at the core of it. It\'s that inner drive. It\'s that... I can\'t wait!\"" +"<br/><br/>"+ 
 "I want to be a software engineer / web developer." +"<br/><br/>"+ "Best regards: ork :-D";
 
 
