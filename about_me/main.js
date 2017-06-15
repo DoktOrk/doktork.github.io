@@ -1,7 +1,7 @@
 var arrSkills = ["<br/>", "js/ts", "ES2015", "jQuery", "Angular", "Angular2", "React", "Ember", "Backbone", "Node.js", "Express", "HTML5", "css", "Sass", "Bootstrap", "FlexBox", "SVG", "SQL", "NoSQL", "Git", "GitHub"];
 
 var aboutMeContent = "Hi!" +"<br/>"+ 
-"My name is Peter, and I\'m looking for a junior developer job. I was born and raised in Hungary, that\'s where I studied aswell, medicine, in the Semmelweis University. And that was the uni, where I got my nickname: the ork." +"<br/>"+ 
+"My name is Peter, and I\'m looking for a junior developer job. I was born and raised in Hungary, that\'s where I studied asvwell, medicine, in the Semmelweis University. And that was the uni, where I got my nickname: the ork." +"<br/>"+ 
 "I\'m a medical doctor, and I worked for three and a half years in Germany, as a traumatologist." +"<br/>"+ 
 "I speak hungarian, german, english on business level and above." +"<br/><br/>"+
 "I\'ve learned HTML, css and javascript in online schools (CodeBerry, CodeSchool), and fortunately have a lot of friends, (software engineers, doctors, web developers for example in the Codeberry online school, etc...) due to my 9 years in the largest student organization of Hungary on the university. They encouraged and teached me." +"<br/>"+ 
