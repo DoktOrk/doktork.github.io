@@ -1,0 +1,76 @@
+body {
+    background-image: url(./backgr/433559.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 25%;
+}
+
+
+
+html, body, .container-table {
+    height: 100%;
+}
+.container-table {
+    display: table;
+}
+.vertical-center-row {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+
+.brandName a{
+    color: #FFFFFF;
+    font-size: 60px;
+}
+
+.myName h3{
+    color: #FFFFFF;
+}
+
+.troyQuote h6{
+    color: #FFFFFF;
+}
+
+.troyCite h6{
+    color: #FFFFFF;
+    font-style: italic;
+    margin-bottom: 60px;
+}
+
+
+
+.buttonsVerti .btn {
+    background-color: transparent;
+    border-color: #FFFFFF;
+}
+
+.buttonsVerti .btn a{
+    color: #FFFFFF;
+}
+
+.buttonsVerti .btn:active{
+    background: #3ba334;
+}
+
+
+.buttonsHoriz .btn{
+    background-color: transparent;
+    border-color: #FFFFFF;
+}
+
+.buttonsHoriz .btn:active{
+    background: #3ba334;
+}
+
+.buttonsHoriz .btn a{
+    color: #FFFFFF;
+}
+
+
+
+.telNum{
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+
