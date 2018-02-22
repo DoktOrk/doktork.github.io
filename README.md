@@ -1,2 +1,2 @@
 # doktork.github.io
-for live preview
+[For live preview click here!](https://doktork.github.io/aboutme2/ "About me!")
